@@ -12,16 +12,16 @@ body{
 	margin:0;
 	padding:0;
 	font-family: 'Lato', sans-serif;
-	font-style: italic;
+
 }
 /*--fonts--*/
 @font-face{
     font-family: 'Lato';
-	font-style: italic;
+
 }
 @font-face{
     font-family: 'Lato';
-	font-style: italic;
+
 }
 /*--fonts--*/
 body{
@@ -83,7 +83,7 @@ span.caret:hover {
 	padding: 0;
 	font-size: 20px;
 	font-family: 'Lato', sans-serif;
-	font-style: italic;
+
 	font-weight: 300;
 	background: none !important;
 	-webkit-transition: -webkit-transform 0.3s;
@@ -179,7 +179,7 @@ span.glyphicon.glyphicon-search.edit {
 	font-weight: bolder;
 	font-size: 3em;
 	font-family: 'Lato', sans-serif;
-	font-style: italic;
+
 	margin-bottom: 1em;
 }
 .bgi p {
@@ -216,7 +216,7 @@ button.btn.btn-danger.btn-styl{
 	margin-bottom: 55px;
 	padding:0 !important;
 	font-family: 'Lato';
-	font-style: italic;
+
 }
 .icn-styling {
 	font-size: 70px;
@@ -326,7 +326,7 @@ section::after {
 /*--HEADING FONTS SETTINGS--*/
 .our-features h1 {
 	font-family: 'Lato', sans-serif;
-	font-style: italic;
+
 	font-weight: 100;
 	color: #fff;
 	font-size: 3em;
@@ -335,14 +335,14 @@ section::after {
 }
 .our-feat h3{
 	font-family: 'Lato', sans-serif;
-	font-style: italic;
+
 	font-weight: 300;
 	color: #fff;
 	font-size: 1.7em;
 }
 .column.our-feat p {
 	font-family: 'Lato';
-	font-style: italic;
+
 	font-weight: 100;
 	color: #fff;
 	font-size: 1em;
@@ -357,7 +357,7 @@ section::after {
 }
 .our-work h2{
 	font-family: 'Lato', sans-serif;
-	font-style: italic;
+
 	font-weight: 100;
 	color: #000;
 	font-size: 3em;
@@ -372,7 +372,7 @@ section::after {
 	margin-bottom: 55px;
 	padding: 0 !important;
 	font-family: 'Lato';
-	font-style: italic;
+
 }
 /*--our-gallery--*/
 .bottom-gallery {
@@ -454,7 +454,7 @@ span.gal-icn {
 /*--testimoninals--*/
 .testimonials h3{
 	font-family: 'Lato', sans-serif;
-	font-style: italic;
+
 	font-weight: 100;
 	color: #332A2A;
 	font-size: 3em;
@@ -479,7 +479,7 @@ span.gal-icn {
 .test-box q{
 	float:left;
 	font-family: 'Lato';
-	font-style: italic;
+
 	font-weight: 100;
 	color: #332A2A;
 	font-size: 1.1em;
@@ -500,7 +500,7 @@ section.slider {
 }
 .banner-info h3 {
 	font-family: 'Lato', sans-serif;
-	font-style: italic;
+
 	font-weight: 300;
 	color: #fff;
 	font-size: 3em;
@@ -513,11 +513,11 @@ section.slider {
 	margin-bottom: 22px;
 	padding: 0 !important;
 	font-family: 'Lato';
-	font-style: italic;
+
 }
 .banner-info p{
 	font-family: 'Lato';
-	font-style: italic;
+
 	font-weight: 100;
 	color: #fff;
 	font-size: 1em;
@@ -561,7 +561,7 @@ section.slider {
 	color: #fff;
 	font-weight: 300;
 	font-family: 'Lato', sans-serif;
-	font-style: italic;
+
 	font-size: 3em;
 	margin-bottom: 30px;
 	margin-top: 2px;
@@ -655,7 +655,7 @@ ul.wmuSliderPagination {
 }
 .bottom-slide p{
 	font-family: 'Lato';
-	font-style: italic;
+
 	font-weight: 100;
 	color: #fff;
 	font-size: 1em;
@@ -719,7 +719,7 @@ ul.wmuSliderPagination {
 }
 .copy-rt p{
 	font-family: 'Lato';
-	font-style: italic;
+
 	font-weight: 100;
 	color: #fff;
 	font-size: 1em;
@@ -755,7 +755,7 @@ ul.wmuSliderPagination {
 .awrd h4,.wh-we h4{
 	text-align: left;
 	font-family: 'Lato', sans-serif;
-	font-style: italic;
+
 	font-weight: 300;
 	color: #00BFF3;
 	font-size: 1.7em;
@@ -783,12 +783,12 @@ ul.wmuSliderPagination {
 	margin-bottom: 15px;
 	padding: 0 !important;
 	font-family: 'Lato';
-	font-style: italic;
+
 }
 .txt0 p {
 	text-align: left;
 	font-family: 'Lato';
-	font-style: italic;
+
 	font-weight: 100;
 	color: #8D8C9D;
 	font-size: 1em;
@@ -813,12 +813,12 @@ ul.wmuSliderPagination {
 	margin-bottom: 15px;
 	padding: 0 !important;
 	font-family: 'Lato';
-	font-style: italic;
+
 }
 .awd-txt p{
 	text-align: left;
 	font-family: 'Lato';
-	font-style: italic;
+
 	font-weight: 100;
 	color: #8D8C9D;
 	font-size: 1em;
@@ -856,11 +856,11 @@ span.glyphicon.glyphicon-bullhorn {
 	margin-bottom: 10px;
 	padding: 0 !important;
 	font-family: 'Lato';
-	font-style: italic;
+
 }
 .team-gallery ul li p{
 	font-family: 'Lato';
-	font-style: italic;
+
 	font-weight: 100;
 	color: #8D8C9D;
 	font-size: 1em;
@@ -886,12 +886,12 @@ code {
 	margin-bottom: 15px;
 	padding: 0 !important;
 	font-family: 'Lato';
-	font-style: italic;
+
 }
 .txt1 p {
 	text-align: left;
 	font-family: 'Lato';
-	font-style: italic;
+
 	font-weight: 100;
 	color: #D80B36;
 	font-size: 1em;
@@ -900,7 +900,7 @@ code {
 }
 .about h3,.our-team h3,.test-monials h3  {
 	font-family: 'Lato', sans-serif;
-	font-style: italic;
+
 	font-weight: 100;
 	color: #0B0354;
 	font-size: 3em;
@@ -922,7 +922,7 @@ code {
 }
 li.grid_1>h4,li.grid_2>h4.head1,li.grid_3 h4,li.grid_4 h4,li.grid_5 h4,li.grid_6 h4,li#tables h4{
 	font-family: 'Lato', sans-serif;
-	font-style: italic;
+
 	font-weight: 300;
 	color: #0B0354;
 	font-size: 2em;
@@ -939,7 +939,7 @@ li.grid_2 h4,h5,h6,h1,h2,h3 {
 }
 .gallery h3{
 	font-family: 'Lato', sans-serif;
-	font-style: italic;
+
 	font-weight: 100;
 	color: #0B0354;
 	font-size: 3em;
@@ -973,12 +973,12 @@ li.col-md-3.gal-alt {
 	margin-bottom: 10px;
 	padding: 0 !important;
 	font-family: 'Lato';
-	font-style: italic;
+
 }
 .gal-alt p{
 	margin-bottom: 10px;
 	font-family: 'Lato';
-	font-style: italic;
+
 	font-weight: 100;
 	color: #8D8C9D;
 	font-size: 1em;
@@ -993,7 +993,7 @@ li.col-md-3.gal-alt {
 }
 .contact_page h3 {
 	font-family: 'Lato', sans-serif;
-	font-style: italic;
+
 	font-weight: 100;
 	color: #0B0354;
 	font-size: 3em;
@@ -1007,7 +1007,7 @@ li.col-md-3.gal-alt {
 .cnt-pg h4{
 	text-align: left;
 	font-family: 'Lato', sans-serif;
-	font-style: italic;
+
 	font-weight: 300;
 	color: #00BFF3;
 	font-size: 1.7em;
@@ -1026,7 +1026,7 @@ li.col-md-3.gal-alt {
 	font-size: 14px;
 	margin-bottom: 15px;
 	font-family: 'Lato';
-	font-style: italic;
+
 }
 .glyphicon.glyphicon-phone-alt{
 	color: #0B0354;
@@ -1041,7 +1041,7 @@ li.col-md-3.gal-alt {
 	outline: none;
 	border: 2px solid #7A7798;
 	font-family: 'Lato';
-	font-style: italic;
+
 	margin-bottom:20px;
 }
 .cnt-pg{
@@ -1082,7 +1082,7 @@ input.name,input.nuber,input.mail2{
 	padding:0;
 	color: #00BFF3;
 	font-family: 'Lato', sans-serif;
-	font-style: italic;
+
 	font-size: 20em;
 	font-weight: 100;
 }
@@ -1094,7 +1094,7 @@ input.name,input.nuber,input.mail2{
 	margin-bottom: 15px;
 	padding: 0 !important;
 	font-family: 'Lato';
-	font-style: italic;
+	
  }
 /*--404--*/
 /*--responsive-starts-here--*/
