@@ -1,6 +1,6 @@
 window._show_thank_you = function(id, message, trackcmp_url) {
   var form = document.getElementById('_form_' + id + '_'), thank_you = form.querySelector('._form-thank-you');
-  form.querySelector('._form-content').style.visibility = 'hidden';
+  form.querySelector('._form-content').style.display = 'none';
   thank_you.innerHTML = message;
   thank_you.style.display = 'block';
   if (typeof(trackcmp_url) != 'undefined' && trackcmp_url) {
@@ -64,7 +64,7 @@ window._load_script = function(url, callback) {
     }
   }
   var _removed = false;
-  var form_to_submit = document.getElementById('_form_1_');
+  var form_to_submit = document.getElementById('_form_5_');
   var allInputs = form_to_submit.querySelectorAll('input, select, textarea'), tooltips = [], submitted = false;
   var remove_tooltips = function() {
     for (var i = 0; i < tooltips.length; i++) {
@@ -242,7 +242,7 @@ window._load_script = function(url, callback) {
   var form_submit = function(e) {
     e.preventDefault();
     if (validate_form()) {
-            var serialized = _form_serialize(document.getElementById('_form_1_'));
+            var serialized = _form_serialize(document.getElementById('_form_5_'));
       _load_script('https://aiesecsaocarlos.activehosted.com/proc.php?' + serialized + '&jsonp=true');
     }
     return false;
